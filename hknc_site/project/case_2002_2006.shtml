@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>2002~2006년</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+          <article id="post-188" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">2002~2006년</h1>
+                  </div>
+                </div>
+                <figure class="wp-block-table is-style-stripes has-small-font-size">
+                  <table class="has-fixed-layout">
+                    <tbody>
+                      <tr>
+                        <td><strong>고객사</strong></td>
+                        <td><strong>프로젝트명</strong></td>
+                        <td><strong>기간</strong></td>
+                        <td><strong>구축 내용</strong></td>
+                      </tr>
+                      <tr>
+                        <td>동부한농</td>
+                        <td>BW / EIS 구축 프로젝트</td>
+                        <td>2006.05 ~ 2007.02</td>
+                        <td>BW설계 및 구현(FI/CO/SD/MM/PP)/FLEX</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>SMIS 구축 프로젝트</td>
+                        <td>2006.01 ~ 2006.04</td>
+                        <td>BW설계 및 구현(SD)/BSP</td>
+                      </tr>
+                      <tr>
+                        <td>동부한농</td>
+                        <td>EPM(SEM) Upgrade</td>
+                        <td>2006.01 ~ 2006.04</td>
+                        <td>추진과제부분 스탠다드 커스터마이징 UI 개선 (WAD)</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>BW, PIS &amp; MSC 시스템 구축</td>
+                        <td>2005.10 ~ 2006.03</td>
+                        <td>BW설계 및 구현(SD)/BSP</td>
+                      </tr>
+                      <tr>
+                        <td>GS파워</td>
+                        <td>BW / EIS 구축</td>
+                        <td>2005.03 ~ 2005.09</td>
+                        <td>BW설계 및 구현(FI/CO/SD/MM/PM)/BSP</td>
+                      </tr>
+                      <tr>
+                        <td>삼성전자</td>
+                        <td>GMPS(경영계획) 시스템 구축</td>
+                        <td>2004.12 ~ 2005.12</td>
+                        <td>BPS를 활용한 경영계획 수립 및 법인별 물량판가 차이 분석</td>
+                      </tr>
+                      <tr>
+                        <td>LG실트론</td>
+                        <td>BW, SCM 고도화</td>
+                        <td>2004.07 ~ 2004.12</td>
+                        <td>BW/MES 2차 고도화</td>
+                      </tr>
+                      <tr>
+                        <td>LG실트론</td>
+                        <td>BW / EIS 고도화</td>
+                        <td>2003.10 ~ 2004.01</td>
+                        <td>BI Technical 업그레이드</td>
+                      </tr>
+                      <tr>
+                        <td>LG실트론</td>
+                        <td>BW, MES구축</td>
+                        <td>2002.10 ~ 2003.06</td>
+                        <td>BW/MES 고도화</td>
+                      </tr>
+                      <tr>
+                        <td>LG실트론</td>
+                        <td>BW / EIS 안정화</td>
+                        <td>2002.08 ~ 2002.09</td>
+                        <td>BW설계 및 구현(PP,MES)</td>
+                      </tr>
+                      <tr>
+                        <td>LG실트론</td>
+                        <td>BW/EIS 구축 프로젝트</td>
+                        <td>2002.03 ~ 2002.07</td>
+                        <td>BW설계 및 구현(PP,MES)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </figure>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+
+  </div>
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+
+</body>
+
+</html>

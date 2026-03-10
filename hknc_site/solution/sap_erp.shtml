@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>SAP ERP</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+
+          <article id="post-219" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">SAP ERP</h1>
+                  </div>
+                </div>
+                <p><strong>R/3 Core Application 모듈과 각 산업분야별로 특화된 18가지 산업별 솔루션(Industry Solution)을 근간으로
+                    하고, 기업내부 및 외부의 모든 자원들을 관리, 최적화하기 위한 New Dimension 제품군으로 구성되어 있으며 이들 제품군은 완벽하게 통합
+                    된 솔루션입니다.</strong></p>
+
+
+
+                <figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024"
+                    height="525" src="/assets/images/image-2-1024x525.png" alt="" class="wp-image-220"
+                    sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+
+  </div>
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+
+</body>
+
+</html>

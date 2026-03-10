@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>Outsourcing</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+          <article id="post-234" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">Outsourcing</h1>
+                  </div>
+                </div>
+                <p>IT 아웃소싱 서비스에는 애플리케이션 개발, 인프라 및 소프트웨어 지원 및 유지 관리, 데이터 센터 관리 및 기타 이니셔티브가 포함됩니다. IT 분야에서
+                  다양한 경험을 축적한 에이치케이앤씨는 귀하가 아웃소싱하려는 모든 영역의 IT 작업을 수행 할 수 있으며, 최고의 서비스를 제공하기 위해 다수의 파트너와
+                  협력 체계를 갖추고 있습니다.</p>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+
+  </div>
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+
+</body>
+
+</html>

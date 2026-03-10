@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>2009~2010년</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+          <article id="post-194" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">2009~2010년</h1>
+                  </div>
+                </div>
+                <figure class="wp-block-table is-style-stripes has-small-font-size">
+                  <table class="has-fixed-layout">
+                    <tbody>
+                      <tr>
+                        <td><strong>고객사</strong></td>
+                        <td><strong>프로젝트명</strong></td>
+                        <td><strong>기간</strong></td>
+                        <td><strong>구축 내용</strong></td>
+                      </tr>
+                      <tr>
+                        <td>KT</td>
+                        <td>개인고객부문 성과보드 구축</td>
+                        <td>2010.02 ~ 2010.03</td>
+                        <td>음성매출,데이터매출 등 휴대폰 고객<br>대시보드</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>CC/AM 마감 자동화시스템 구축</td>
+                        <td>2009.10 ~ 2010.03</td>
+                        <td>ERM설계 및 구현/BSP 순임대 주유소의 직영/직영화 전환에<br>따른 BI 기반 업무 자동화 시스템 구축</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>마감업무 개선 프로젝트</td>
+                        <td>2009.09 ~ 2010.01</td>
+                        <td>ERM설계 및 구현/BSP 마감 업무 모니터링 프로세스 설계</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>CC하부거래처 통합관리시스템 구축</td>
+                        <td>2009.06 ~ 2009.09</td>
+                        <td>ERM설계 및 구현/BSP CC구조 통합 프로세스 설계</td>
+                      </tr>
+                      <tr>
+                        <td>CJ바이오</td>
+                        <td>BI / ERP 통합관리시스템 구축</td>
+                        <td>2009.05 ~ 2009.07</td>
+                        <td>BW 업그레이드 및 통합(생산/판매 법인)</td>
+                      </tr>
+                      <tr>
+                        <td>KTF</td>
+                        <td>BI운영 및 고도화 / KPI 개발</td>
+                        <td>2009.01 ~ 2011.01</td>
+                        <td>시스템운영 / SEM-BSC 성과/측정지표 재구축</td>
+                      </tr>
+                      <tr>
+                        <td>동부제철</td>
+                        <td>BI Upgrade</td>
+                        <td>2009.01 ~ 2009.05</td>
+                        <td>BI Technical 업그레이드 SAP R/3 &lt;-&gt; BW간 Interface&nbsp; Post
+                          Upgrade 작업 및 시스템 셋팅</td>
+                      </tr>
+                      <tr>
+                        <td>동부하이텍</td>
+                        <td>BI / EIS BIA 시스템 구축</td>
+                        <td>2008.08 ~ 2008.10</td>
+                        <td>BIA 작업 및 시스템 셋팅 Performace 개선 모델링</td>
+                      </tr>
+                      <tr>
+                        <td>삼성전자</td>
+                        <td>G-ERP 구축</td>
+                        <td>2008.07 ~ 2009.04</td>
+                        <td>BW Outbound I/F (ERP&lt;-&gt;물류시스템)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </figure>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+  </div>
+
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+</body>
+
+</html>

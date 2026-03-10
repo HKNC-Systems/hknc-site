@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>HKNC</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+
+</head>
+
+<body
+  class="home wp-singular page-template-default page page-id-149 wp-custom-logo wp-theme-hestia blog-post header-layout-default">
+  <div class="wrapper ">
+    <!--#include virtual="/assets/html/header_index.html" -->
+    <div id="carousel-hestia-generic" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="item active">
+          <div class="page-header">
+            <div class="container">
+              <div class="row hestia-big-title-content">
+                <div class="big-title-slider-content text-center col-sm-8 col-sm-offset-2">
+                  <h1 class="hestia-title">HKNC</h1>
+                  <span class="sub-title">기술력, 수행능력, 열정과 프로의식으로 가장 신뢰받는 ERP/BI 컨설팅 기업</span>
+                  <div class="buttons">
+                    <a href="/company/introduce" class="btn btn-primary">Start</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="header-filter" style="background-image: url(/assets/images/slider2-1.jpg)">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+
+  </div>
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+
+</body>
+
+</html>

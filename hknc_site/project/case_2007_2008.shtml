@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>2007~2008년</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+          <article id="post-191" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">2007~2008년</h1>
+                  </div>
+                </div>
+                <figure class="wp-block-table is-style-stripes has-small-font-size">
+                  <table class="has-fixed-layout">
+                    <tbody>
+                      <tr>
+                        <td><strong>고객사</strong></td>
+                        <td><strong>프로젝트명</strong></td>
+                        <td><strong>기간</strong></td>
+                        <td><strong>구축 내용</strong></td>
+                      </tr>
+                      <tr>
+                        <td>LG상사</td>
+                        <td>KRI 고도화</td>
+                        <td>2008.05 ~ 2008.06</td>
+                        <td>KRI 체계 고도화 작업</td>
+                      </tr>
+                      <tr>
+                        <td>LG실트론</td>
+                        <td>성능 개선</td>
+                        <td>2008.04 ~ 2008.04</td>
+                        <td>Mes 리포트 관련 모델링 속도 개선<br>/Q-Cost 워크북 수정보완</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>BW, ERMS 구축</td>
+                        <td>2008.01 ~ 2008.12</td>
+                        <td>ERM설계 및 구현/BSP</td>
+                      </tr>
+                      <tr>
+                        <td>동부하이텍</td>
+                        <td>BW / EIS 고도화 및 조직개편 프로젝트</td>
+                        <td>2008.01 ~ 2008.03</td>
+                        <td>BW설계 및 구현/BSP BW/EIS 프로세스 개선 및 고도화</td>
+                      </tr>
+                      <tr>
+                        <td>LG상사</td>
+                        <td>ERM 안정화</td>
+                        <td>2007.09 ~ 2007.12</td>
+                        <td>ERMS 시스템 안정화 및 고도화</td>
+                      </tr>
+                      <tr>
+                        <td>GS칼텍스</td>
+                        <td>BW / EIS Upgrade</td>
+                        <td>2007.09 ~ 2007.12</td>
+                        <td>BI Technical 업그레이드</td>
+                      </tr>
+                      <tr>
+                        <td>LG상사</td>
+                        <td>BW / ERMS 구축</td>
+                        <td>2007.05 ~ 2007.09</td>
+                        <td>BW설계 및 구현/BSP</td>
+                      </tr>
+                      <tr>
+                        <td>동부CNI</td>
+                        <td>BW / EIS 구축 프로젝트</td>
+                        <td>2007.03 ~ 2007.05</td>
+                        <td>FLEX, BSP, BEx 통합 솔루션을 활용한 EIS구현 (포탈구현)</td>
+                      </tr>
+                      <tr>
+                        <td>KT</td>
+                        <td>BI 운영 및 고도화</td>
+                        <td>2007.01 ~ 2010.03</td>
+                        <td>운영 / 구매,자산,재무회계 고도화</td>
+                      </tr>
+                      <tr>
+                        <td>LG석유화학</td>
+                        <td>ERM / KRI 시스템 구축</td>
+                        <td>2006.08 ~ 2006.12</td>
+                        <td>ERM설계 및 구현/BSP</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </figure>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+
+
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+
+  </div>
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+
+</body>
+
+</html>

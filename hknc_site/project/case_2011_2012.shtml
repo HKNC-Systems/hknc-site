@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>2011~2012년</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+          <article id="post-197" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">2011~2012년</h1>
+                  </div>
+                </div>
+                <figure class="wp-block-table is-style-stripes has-small-font-size">
+                  <table class="has-fixed-layout">
+                    <tbody>
+                      <tr>
+                        <td><strong>고객사</strong></td>
+                        <td><strong>프로젝트명</strong></td>
+                        <td><strong>기간</strong></td>
+                        <td><strong>구축 내용</strong></td>
+                      </tr>
+                      <tr>
+                        <td>여천NCC</td>
+                        <td>YNCC ERP 구축 프로젝트</td>
+                        <td>2011.10 ~ 2012.05</td>
+                        <td>BW 설계 및 구현(CO,FI,TR) / BPC I/F</td>
+                      </tr>
+                      <tr>
+                        <td>기아자동차</td>
+                        <td>유럽판매법인 회계/BW/Workflow 구축</td>
+                        <td>2012.03 ~ 2012.09</td>
+                        <td>CO-PA 모델링 / Query, Workbook</td>
+                      </tr>
+                      <tr>
+                        <td>KT</td>
+                        <td>BI / EIS 운영 및 고도화</td>
+                        <td>2012.01 ~ 2012.09</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>두산전자</td>
+                        <td>ERP / BI 구축</td>
+                        <td>2011.11 ~ 2012.06</td>
+                        <td>BW 구축, EIS 화면 설계 및 구현 대상 Module SD, LE, SCM</td>
+                      </tr>
+                      <tr>
+                        <td>SDI</td>
+                        <td>삼성 SDI 글로벌 프로젝트</td>
+                        <td>2011.05 ~ 2011.10</td>
+                        <td>BW설계 및 구현(SD,HR,EHS)</td>
+                      </tr>
+                      <tr>
+                        <td>KT</td>
+                        <td>BI 운영 및 고도화</td>
+                        <td>2011.01 ~ 2011.03</td>
+                        <td>안정화 및 Performance 튜닝</td>
+                      </tr>
+                      <tr>
+                        <td>SK C&amp;C</td>
+                        <td>통합 IT 구현 프로젝트</td>
+                        <td>2010.06 ~&nbsp; 2011.01</td>
+                        <td>경영계획관련 BW 데이터마트,<br>시뮬레이션</td>
+                      </tr>
+                      <tr>
+                        <td>두산인프라코어</td>
+                        <td>BI 운영 및 고도화</td>
+                        <td>2010.05 ~ 2011.10</td>
+                        <td>BW설계 및 구현 건기 관련 전 Module를 대상으로 Report를 Web 기반의 Report 구현</td>
+                      </tr>
+                      <tr>
+                        <td>한화케미컬</td>
+                        <td>ERP / BI 구축 프로젝트</td>
+                        <td>2010.05 ~ 2010.11</td>
+                        <td>BW설계 및 구현(CO,FI,TR)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </figure>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+
+  </div>
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+
+</body>
+
+</html>

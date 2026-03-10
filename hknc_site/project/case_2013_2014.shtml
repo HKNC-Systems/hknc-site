@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+  <title>2013~2014년</title>
+  <!--#include virtual="/assets/html/head_partial.html" -->
+</head>
+
+<body
+  class="wp-singular page-template page-template-page-templates page-template-template-page-sidebar page-template-page-templatestemplate-page-sidebar-php page page-id-70 wp-custom-logo wp-theme-hestia blog-post header-layout-classic-blog">
+  <div class="wrapper  classic-blog ">
+    <!--#include virtual="/assets/html/header_other.html" -->
+    <div class="main">
+      <div class="blog-post">
+        <div class="container">
+
+          <article id="post-30" class="section section-text">
+            <div class="row">
+              <div class="col-md-8 page-content-wrap ">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1 class="hestia-title title-in-content ">2013~2014년</h1>
+                  </div>
+                </div>
+                <figure class="wp-block-table is-style-stripes has-small-font-size">
+                  <table class="has-fixed-layout">
+                    <tbody>
+                      <tr>
+                        <td><strong>고객사</strong></td>
+                        <td><strong>프로젝트명</strong></td>
+                        <td><strong>기간</strong></td>
+                        <td><strong>구축 내용</strong></td>
+                      </tr>
+                      <tr>
+                        <td>두산전자</td>
+                        <td>8대 과제 데이터 전산화 / Q-Cost<br>프로젝트</td>
+                        <td>2014.04 ~ 2014.12</td>
+                        <td>품질 및 생산관리 지표를 정기보고서와 비정형 분석양식으로 구현 (Excel Integration)</td>
+                      </tr>
+                      <tr>
+                        <td>한화에너지</td>
+                        <td>BW 신규구축 프로젝트</td>
+                        <td>2014.02 ~ 2014.09</td>
+                        <td>BW설계 및 구현(CO,PS,SD)/BPC I/F 구현/월간 그룹보고 워크북 구현</td>
+                      </tr>
+                      <tr>
+                        <td>두산인프라코어</td>
+                        <td>산용용차량 자재/부품영업시스템<br>BW고도화</td>
+                        <td>2014.06 ~ 2014.08</td>
+                        <td>SD,MM,QM 업무확장 관련 BW적용</td>
+                      </tr>
+                      <tr>
+                        <td>현대중공업</td>
+                        <td>BI 시스템 구축</td>
+                        <td>2014.04 ~ 2014.11</td>
+                        <td>엔진기계사업부 재무/영업 모델링</td>
+                      </tr>
+                      <tr>
+                        <td>LG서브원</td>
+                        <td>MRO ERP/BI 구축 프로젝트</td>
+                        <td>2014.03 ~ 2014.05</td>
+                        <td>UI5기반의 대시보드</td>
+                      </tr>
+                      <tr>
+                        <td>두산전자</td>
+                        <td>전자BG BW 운영 및 고도화</td>
+                        <td>2014.01 ~ 2014.06</td>
+                        <td>수출입/품질 불량율 워크북 구현</td>
+                      </tr>
+                      <tr>
+                        <td>두산전자</td>
+                        <td>BW Monthly Report 시스템 자동화</td>
+                        <td>2013.08 ~ 2014.01</td>
+                        <td>Monthly 원가절감 워크북 구현</td>
+                      </tr>
+                      <tr>
+                        <td>Kotra</td>
+                        <td>BI 운영 및 고도화</td>
+                        <td>2013.07 ~ 2014.07</td>
+                        <td>투자정보/수출정보 모델링</td>
+                      </tr>
+                      <tr>
+                        <td>삼성전자</td>
+                        <td>G-ERP CS 환경 KPI 통합시스템 구축</td>
+                        <td>2013.05 ~ 2013.09</td>
+                        <td>CS(고객서비스) KPI모델링 / 대시보드 구현</td>
+                      </tr>
+                      <tr>
+                        <td>㈜두산</td>
+                        <td>BI / EIS 운영 및 고도화</td>
+                        <td>2013.04 ~ 2013.12</td>
+                        <td>결산명세서 워크북 구현</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </figure>
+              </div>
+              <!--#include virtual="/assets/html/category.html" -->
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </div>
+    <!--#include virtual="/assets/html/footer.html" -->
+  </div>
+
+  <!--#include virtual="/assets/html/footer_scripts.html" -->
+</body>
+
+</html>
